@@ -2,6 +2,7 @@
 The "Classification of Heart Disease using Machine Learning" project is a data-driven endeavor aimed at developing an accurate and robust model to predict the presence or absence of heart disease in individuals based on a set of medical attributes. Heart disease is a critical health concern, and this project leverages the power of machine learning to assist in early diagnosis, enabling timely medical intervention and improving patient outcomes.
 
 **Technologies Used** :
+
 Programming Languages:
 Python: The primary programming language for data preprocessing, model development, training, evaluation, and deployment.
 
